@@ -17,7 +17,7 @@ public class GameFrame extends JFrame{
 		setContentPane(p);
 		setSize(500,500);
 		setVisible(true);
-		System.out.println("g");
+		System.out.println("gds");
 	}
 	
 	
