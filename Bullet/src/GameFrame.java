@@ -18,7 +18,6 @@ public class GameFrame extends JFrame{
 		setSize(500,500);
 		setVisible(true);
 		System.out.println("gg");
-		p.startGame();
 	}
 	
 	
